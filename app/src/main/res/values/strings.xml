@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">India News Feed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title"> India NewsFeed</string>
+    <string name="nav_header_subtitle">admin@indiaToday </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">58c264bcf1e94c2ca58539b2662c8170</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="general">General</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="business">Business</string>
+    <string name="science">Science</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.IndiaNewsFeed" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#9C3636</item>
+        <item name="colorPrimaryVariant">#9C3636</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#9C3636</item>
+        <item name="colorSecondaryVariant">#9C3636</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#9C3636</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.IndiaNewsFeed.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.IndiaNewsFeed.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.IndiaNewsFeed.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
